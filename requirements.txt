@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+plotly.express
+yfinance 
+osmnx 
+networkx
